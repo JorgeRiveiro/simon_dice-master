@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="rojo_tap">#ff0000</color>
+    <color name="azul_tap">#000fff</color>
+    <color name="verde_tap">#0fff00</color>
+    <color name="amarillo_tap">#eeff00</color>
+    <color name="amarillo">#f7ff78</color>
+    <color name="rojo">#ff3f42</color>
+    <color name="verde">#86ff78</color>
+    <color name="azul">#6bcefc</color>
+    <color name="gris">#d1d1d1</color>
+    <color name="gris_tap">#818181</color>
+    <color name="fondo">#484848</color>
+    <color name="blanco">#ffffff</color>
+
+</resources>
