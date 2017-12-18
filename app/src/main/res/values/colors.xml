@@ -7,13 +7,13 @@
     <color name="azul_tap">#000fff</color>
     <color name="verde_tap">#0fff00</color>
     <color name="amarillo_tap">#eeff00</color>
-    <color name="amarillo">#f7ff78</color>
-    <color name="rojo">#ff3f42</color>
-    <color name="verde">#86ff78</color>
-    <color name="azul">#6bcefc</color>
-    <color name="gris">#d1d1d1</color>
+    <color name="amarilloc">#f7ff78</color>
+    <color name="rojoc">#ff3f42</color>
+    <color name="verdec">#86ff78</color>
+    <color name="azulc">#6bcefc</color>
+    <color name="grisc">#d1d1d1</color>
     <color name="gris_tap">#818181</color>
-    <color name="fondo">#484848</color>
-    <color name="blanco">#ffffff</color>
+    <color name="fondoc">#484848</color>
+    <color name="blancoc">#ffffff</color>
 
 </resources>
